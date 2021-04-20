@@ -7,7 +7,6 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
-		<!-- Just a line to make a change -->
 	</parent>
 	<groupId>com.bookzy2</groupId>
 	<artifactId>webapp</artifactId>
